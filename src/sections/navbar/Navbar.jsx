@@ -1,7 +1,6 @@
 import './navbar.css'
 import Navjot from '../../assets/Navjotk.jpg';
 import data from './data';
-import { IoIosColorPalette } from 'react-icons/io';
 
 const Navbar = () => {
     return (

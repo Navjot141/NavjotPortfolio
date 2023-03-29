@@ -1,4 +1,3 @@
-import data from './data.js'
 import { useState } from 'react'
 import CategoryButton from './CategoryButton'
 const ProjectsCategories = ({ categories, onFilterProjects }) => {
