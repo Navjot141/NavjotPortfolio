@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NavjotNagra/static/css/main.1c4efc8d.css",
+    "main.js": "/NavjotNagra/static/js/main.ee542f2a.js",
+    "static/media/navjot.jpg": "/NavjotNagra/static/media/navjot.ca19d347c4c8d28d4bf0.jpg",
+    "static/media/cv.pdf": "/NavjotNagra/static/media/cv.a963b1b2d8fccf84b9bb.pdf",
+    "static/media/navjot.png": "/NavjotNagra/static/media/navjot.5dfadfbfa00bdc0d2d6f.png",
+    "static/media/Navjotk.jpg": "/NavjotNagra/static/media/Navjotk.83a7669addb870ce1dc4.jpg",
+    "index.html": "/NavjotNagra/index.html",
+    "main.1c4efc8d.css.map": "/NavjotNagra/static/css/main.1c4efc8d.css.map",
+    "main.ee542f2a.js.map": "/NavjotNagra/static/js/main.ee542f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4efc8d.css",
+    "static/js/main.ee542f2a.js"
+  ]
+}
